@@ -9,9 +9,6 @@ os seguintes aspectos:
 2. Realizar uma análise exploratória dos dados;
 3. Utilizar SQL para responder os questionamentos abaixo (pode usar alguma biblioteca
 que facilite o uso do SQL em um Jupyter Notebook);
-4. Criar um relatório em qualquer ferramenta de visualização de dados.
-Os seguintes arquivos devem ser importados (ETL) para o Jupyter Notebook, onde deverá ser
-feito toda a resolução do problema.
 
 ## Resolução:
 [notebook jupyter](jupyter-notebook.ipynb)
