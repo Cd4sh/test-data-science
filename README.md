@@ -1,5 +1,3 @@
-# Teste-DataScience
-
 
 ## O problema:
 O presente problema se refere aos dados de uma empresa que produz bicicletas.
